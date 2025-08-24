@@ -1,0 +1,11 @@
+/dconf
+/evolution
+/gtk-3.0
+/pulse
+
+.gsd-keyboard.settings-ported
+baloofilerc
+monitors.xml
+monitors.xml~
+user-dirs.dirs
+user-dirs.locale
