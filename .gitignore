@@ -1,7 +1,7 @@
-/dconf
-/evolution
-/gtk-3.0
-/pulse
+dconf/
+evolution/
+gtk-3.0/
+pulse/
 
 .gsd-keyboard.settings-ported
 baloofilerc
